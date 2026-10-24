@@ -1,0 +1,50 @@
+{
+  "Base Game Songs": {
+    "yaml_option": [
+      "Base_Game_Songs_Enabled"
+    ]
+  },
+  "Supporter Pack DLC": {
+    "yaml_option": [
+      "Supporter_Pack_DLC_Enabled"
+    ]
+  },
+  "Monstercat DLC": {
+    "yaml_option": [
+      "Monstercat_DLC_Enabled"
+    ]
+  },
+  "Chillhop DLC": {
+    "yaml_option": [
+      "Chillhop_DLC_Enabled"
+    ]
+  },
+  "Indie Pack DLC": {
+    "yaml_option": [
+      "Indie_Pack_DLC_Enabled"
+    ]
+  },
+  "5 Custom Songs": {
+    "yaml_option": [
+      "5_Custom_Songs_Enabled"
+    ]
+  },
+  "15 Custom Songs": {
+    "yaml_option": [
+      "15_Custom_Songs_Enabled"
+    ]
+  },
+  "30 Custom Songs": {
+    "yaml_option": [
+      "30_Custom_Songs_Enabled"
+    ]
+  },
+  "50 Custom Songs": {
+    "yaml_option": [
+      "50_Custom_Songs_Enabled"
+    ]
+  },
+  "Songs": {
+    "hidden": true
+  }
+}

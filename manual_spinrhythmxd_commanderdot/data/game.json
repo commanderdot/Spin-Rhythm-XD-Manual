@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SpinRhythmXD",
+  "creator": "commanderdot",
+  "filler_item_name": "No Spin",
+  "starting_items": [{"item_categories": ["Songs"], "random": 3}]
+}

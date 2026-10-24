@@ -1,0 +1,2086 @@
+[
+  {
+    "name": "Tutorial - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Tutorial|"
+  },{
+    "name": "Tutorial - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Tutorial|"
+  },
+  {
+    "name": "New Game - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|New Game|"
+  },
+  {
+    "name": "New Game - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|New Game|"
+  },
+  {
+    "name": "Checkpoint - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Checkpoint|"
+  },
+  {
+    "name": "Checkpoint - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Checkpoint|"
+  },
+  {
+    "name": "Inject - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Inject|"
+  },
+  {
+    "name": "Inject - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Inject|"
+  },
+  {
+    "name": "2 Minutes - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|2 Minutes|"
+  },
+  {
+    "name": "2 Minutes - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|2 Minutes|"
+  },
+  {
+    "name": "Humanity - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Humanity|"
+  },
+  {
+    "name": "Humanity - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Humanity|"
+  },
+  {
+    "name": "Hypersphere - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Hypersphere|"
+  },
+  {
+    "name": "Hypersphere - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Hypersphere|"
+  },
+  {
+    "name": "Ghost Ship - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Ghost Ship|"
+  },
+  {
+    "name": "Ghost Ship - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Ghost Ship|"
+  },
+  {
+    "name": "Beyond the Heart - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Beyond the Heart|"
+  },
+  {
+    "name": "Beyond the Heart - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Beyond the Heart|"
+  },
+  {
+    "name": "Adventures - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Adventures|"
+  },
+  {
+    "name": "Adventures - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Adventures|"
+  },
+  {
+    "name": "Highscore - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Highscore|"
+  },
+  {
+    "name": "Highscore - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Highscore|"
+  },
+  {
+    "name": "Never Count On Me - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Never Count On Me|"
+  },
+  {
+    "name": "Never Count On Me - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Never Count On Me|"
+  },
+  {
+    "name": "cold rock it - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|cold rock it|"
+  },
+  {
+    "name": "cold rock it - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|cold rock it|"
+  },
+  {
+    "name": "tapestry - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|tapestry|"
+  },
+  {
+    "name": "tapestry - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|tapestry|"
+  },
+  {
+    "name": "I See Lite - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|I See Lite|"
+  },
+  {
+    "name": "I See Lite - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|I See Lite|"
+  },
+  {
+    "name": "Daydream - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Daydream|"
+  },
+  {
+    "name": "Daydream - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Daydream|"
+  },
+  {
+    "name": "BUBBLES - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|BUBBLES|"
+  },
+  {
+    "name": "BUBBLES - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|BUBBLES|"
+  },
+  {
+    "name": "Dying Scarlet - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Dying Scarlet|"
+  },
+  {
+    "name": "Dying Scarlet - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Dying Scarlet|"
+  },
+  {
+    "name": "Superimposed_RGB - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Superimposed_RGB|"
+  },
+  {
+    "name": "Superimposed_RGB - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Superimposed_RGB|"
+  },
+  {
+    "name": "Undo U - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Undo U|"
+  },
+  {
+    "name": "Undo U - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Undo U|"
+  },
+  {
+    "name": "Water Elemental - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Water Elemental|"
+  },
+  {
+    "name": "Water Elemental - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Water Elemental|"
+  },
+  {
+    "name": "Velours - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Velours|"
+  },
+  {
+    "name": "Velours - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Velours|"
+  },
+  {
+    "name": "Revenger - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Revenger|"
+  },
+  {
+    "name": "Revenger - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Revenger|"
+  },
+  {
+    "name": "Show Me Love (nxwyxrk remix) - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Show Me Love (nxwyxrk remix)|"
+  },
+  {
+    "name": "Show Me Love (nxwyxrk remix) - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Show Me Love (nxwyxrk remix)|"
+  },
+  {
+    "name": "PROPER RHYTHM - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|PROPER RHYTHM|"
+  },
+  {
+    "name": "PROPER RHYTHM - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|PROPER RHYTHM|"
+  },
+  {
+    "name": "My Museum - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|My Museum|"
+  },
+  {
+    "name": "My Museum - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|My Museum|"
+  },
+  {
+    "name": "My Museum (blyenn Remix) - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|My Museum (blyenn Remix)|"
+  },
+  {
+    "name": "My Museum (blyenn Remix)- 1",
+    "category": ["Base Game Songs"],
+    "requires": "|My Museum (blyenn Remix)|"
+  },
+  {
+    "name": "Let Me Hear That - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Let Me Hear That|"
+  },
+  {
+    "name": "Let Me Hear That - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Let Me Hear That|"
+  },
+  {
+    "name": "Radio - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Radio|"
+  },
+  {
+    "name": "Radio - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Radio|"
+  },
+  {
+    "name": "The Magician - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|The Magician|"
+  },
+  {
+    "name": "The Magician - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|The Magician|"
+  },
+  {
+    "name": "The Magician (Eraser Remix) - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|The Magician (Eraser Remix)|"
+  },
+  {
+    "name": "The Magician (Eraser Remix) - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|The Magician (Eraser Remix)|"
+  },
+  {
+    "name": "Lovesick - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Lovesick|"
+  },
+  {
+    "name": "Lovesick - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Lovesick|"
+  },
+  {
+    "name": "Showdown - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Showdown|"
+  },
+  {
+    "name": "Showdown - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Showdown|"
+  },
+  {
+    "name": "Robo Trio - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Robo Trio|"
+  },
+  {
+    "name": "Robo Trio - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Robo Trio|"
+  },
+  {
+    "name": "Reach You - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Reach You|"
+  },
+  {
+    "name": "Reach You - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Reach You|"
+  },
+  {
+    "name": "Rhythmic Shield - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Rhythmic Shield|"
+  },
+  {
+    "name": "Rhythmic Shield - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Rhythmic Shield|"
+  },
+  {
+    "name": "Engine Start - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Engine Start|"
+  },
+  {
+    "name": "Engine Start - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Engine Start|"
+  },
+  {
+    "name": "Your Pain - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Your Pain|"
+  },
+  {
+    "name": "Your Pain - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Your Pain|"
+  },
+  {
+    "name": "Twist Sound - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Twist Sound|"
+  },
+  {
+    "name": "Twist Sound - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Twist Sound|"
+  },
+  {
+    "name": "Voidwalkers - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Voidwalkers|"
+  },
+  {
+    "name": "Voidwalkers - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Voidwalkers|"
+  },
+   {
+    "name": "Prism Bucket - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Prism Bucket|"
+  },{
+    "name": "Prism Bucket - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Prism Bucket|"
+  },
+  {
+    "name": "The Kracken - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|The Kracken|"
+  },
+  {
+    "name": "The Kracken - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|The Kracken|"
+  },
+  {
+    "name": "Arcana Engine - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Arcana Engine|"
+  },
+  {
+    "name": "Arcana Engine - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Arcana Engine|"
+  },
+  {
+    "name": "New Year - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|New Year|"
+  },
+  {
+    "name": "New Year - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|New Year|"
+  },
+  {
+    "name": "Sector Five - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Sector Five|"
+  },
+  {
+    "name": "Sector Five - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Sector Five|"
+  },
+  {
+    "name": "Dance With Silence - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Dance With Silence|"
+  },
+  {
+    "name": "Dance With Silence - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Dance With Silence|"
+  },
+  {
+    "name": "Whirlpool - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Whirlpool|"
+  },
+  {
+    "name": "Whirlpool - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Whirlpool|"
+  },
+  {
+    "name": "Ginger Lizard - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Ginger Lizard|"
+  },
+  {
+    "name": "Ginger Lizard - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Ginger Lizard|"
+  },
+  {
+    "name": "Mimic - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Mimic|"
+  },
+  {
+    "name": "Mimic - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Mimic|"
+  },
+  {
+    "name": "Spin Cycle - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Spin Cycle|"
+  },
+  {
+    "name": "Spin Cycle - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Spin Cycle|"
+  },
+  {
+    "name": "Spin Cycle (NETCAVY Remix) - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Spin Cycle (NETCAVY Remix)|"
+  },
+  {
+    "name": "Spin Cycle (NETCAVY Remix) - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Spin Cycle (NETCAVY Remix)|"
+  },
+  {
+    "name": "Heading East - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Heading East|"
+  },
+  {
+    "name": "Heading East - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Heading East|"
+  },
+  {
+    "name": "Come to Me - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Come to Me|"
+  },
+  {
+    "name": "Come to Me - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Come to Me|"
+  },
+  {
+    "name": "Wayside - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Wayside|"
+  },
+  {
+    "name": "Wayside - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Wayside|"
+  },
+  {
+    "name": "Pirate Afterparty - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Pirate Afterparty|"
+  },
+  {
+    "name": "Pirate Afterparty - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Pirate Afterparty|"
+  },
+  {
+    "name": "No Limits - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|No Limits|"
+  },
+  {
+    "name": "No Limits - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|No Limits|"
+  },
+  {
+    "name": "Metropole - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Metropole|"
+  },
+  {
+    "name": "Metropole - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Metropole|"
+  },
+  {
+    "name": "Second Wind - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Second Wind|"
+  },
+  {
+    "name": "Second Wind - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Second Wind|"
+  },
+  {
+    "name": "Colorblind - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Colorblind|"
+  },
+  {
+    "name": "Colorblind - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Colorblind|"
+  },
+  {
+    "name": "FOREVER NOW - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|FOREVER NOW|"
+  },
+  {
+    "name": "FOREVER NOW - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|FOREVER NOW|"
+  },
+  {
+    "name": "Matriarch - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Matriarch|"
+  },
+  {
+    "name": "Matriarch - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Matriarch|"
+  },
+  {
+    "name": "This Is It - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|This Is It|"
+  },
+  {
+    "name": "This Is It - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|This Is It|"
+  },
+  {
+    "name": "Platform 9 - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Platform 9|"
+  },
+  {
+    "name": "Platform 9 - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Platform 9|"
+  },
+  {
+    "name": "Lights Camera Action - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Lights Camera Action|"
+  },
+  {
+    "name": "Lights Camera Action - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Lights Camera Action|"
+  },
+  {
+    "name": "Go Outside - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Go Outside|"
+  },
+  {
+    "name": "Go Outside - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Go Outside|"
+  },
+  {
+    "name": "VOLT - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|VOLT|"
+  },
+  {
+    "name": "VOLT - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|VOLT|"
+  },
+  {
+    "name": "Air On Line - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Air On Line|"
+  },
+  {
+    "name": "Air On Line - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Air On Line|"
+  },
+  {
+    "name": "Octava - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Octava|"
+  },
+  {
+    "name": "Octava - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Octava|"
+  },
+  {
+    "name": "Flight - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Flight|"
+  },
+  {
+    "name": "Flight - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Flight|"
+  },
+  {
+    "name": "Coming Too - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Coming Too|"
+  },
+  {
+    "name": "Coming Too - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Coming Too|"
+  },
+  {
+    "name": "Razor Sharp - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Razor Sharp|"
+  },
+  {
+    "name": "Razor Sharp - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Razor Sharp|"
+  },
+  {
+    "name": "Raise The Black Flag - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Raise The Black Flag|"
+  },
+  {
+    "name": "Raise The Black Flag - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Raise The Black Flag|"
+  },
+  {
+    "name": "Darkness Dimension - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Darkness Dimension|"
+  },
+  {
+    "name": "Darkness Dimension - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Darkness Dimension|"
+  },
+  {
+    "name": "Hot Pursuit - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Hot Pursuit|"
+  },
+  {
+    "name": "Hot Pursuit - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Hot Pursuit|"
+  },
+  {
+    "name": "valor/starcross - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|valor/starcross|"
+  },
+  {
+    "name": "valor/starcross - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|valor/starcross|"
+  },
+  {
+    "name": "Rattlesnake - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Rattlesnake|"
+  },
+  {
+    "name": "Rattlesnake - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Rattlesnake|"
+  },
+  {
+    "name": "Body F10ating in the Zero Gravity Space - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Body F10ating in the Zero Gravity Space|"
+  },
+  {
+    "name": "Body F10ating in the Zero Gravity Space - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Body F10ating in the Zero Gravity Space|"
+  },
+  {
+    "name": "One Esk Nineteen - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|One Esk Nineteen|"
+  },
+  {
+    "name": "One Esk Nineteen - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|One Esk Nineteen|"
+  },
+  {
+    "name": "Believe - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Believe|"
+  },
+  {
+    "name": "Believe - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Believe|"
+  },
+  {
+    "name": "Final Boss - 0",
+    "category": ["Base Game Songs"],
+    "requires": "|Final Boss|"
+  },
+  {
+    "name": "Final Boss - 1",
+    "category": ["Base Game Songs"],
+    "requires": "|Final Boss|"
+  },
+  {
+    "victory": true,
+    "name": "Victory",
+    "category": ["Victory"],
+    "requires": "|XD:ALL|"
+  },
+  {
+    "name": "Dry Dreams - 0",
+    "category": ["Supporter Pack DLC"],
+    "requires": "|Dry Dreams|"
+  },
+  {
+    "name": "Dry Dreams - 1",
+    "category": ["Supporter Pack DLC"],
+    "requires": "|Dry Dreams|"
+  },
+  {
+    "name": "Cheat Codes - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|Cheat Codes|"
+  },
+  {
+    "name": "Cheat Codes - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|Cheat Codes|"
+  },
+  {
+    "name": "CRAZY - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|CRAZY|"
+  },
+  {
+    "name": "CRAZY - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|CRAZY|"
+  },
+  {
+    "name": "Into the Light - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|Into the Light|"
+  },
+  {
+    "name": "Into the Light - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|Into the Light|"
+  },
+  {
+    "name": "Shut My Mouth - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|Shut My Mouth|"
+  },
+  {
+    "name": "Shut My Mouth - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|Shut My Mouth|"
+  },
+  {
+    "name": "THE DROP - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|THE DROP|"
+  },
+  {
+    "name": "THE DROP - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|THE DROP|"
+  },
+  {
+    "name": "Blue Shadows - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|Blue Shadows|"
+  },
+  {
+    "name": "Blue Shadows - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|Blue Shadows|"
+  },
+  {
+    "name": "Overkill - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|Overkill|"
+  },
+  {
+    "name": "Overkill - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|Overkill|"
+  },
+  {
+    "name": "U Got Me - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|U Got Me|"
+  },
+  {
+    "name": "U Got Me - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|U Got Me|"
+  },
+  {
+    "name": "How We Win - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|How We Win|"
+  },
+  {
+    "name": "How We Win - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|How We Win|"
+  },
+  {
+    "name": "It's All Over - 0",
+    "category": ["Monstercat DLC"],
+    "requires": "|It's All Over|"
+  },
+  {
+    "name": "It's All Over - 1",
+    "category": ["Monstercat DLC"],
+    "requires": "|It's All Over|"
+  },
+  {
+    "name": "Playtime - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Playtime|"
+  },
+  {
+    "name": "Playtime - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Playtime|"
+  },
+  {
+    "name": "Khaleesi - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Khaleesi|"
+  },
+  {
+    "name": "Khaleesi - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Khaleesi|"
+  },
+  {
+    "name": "Takin' You For a Ride - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Takin' You For a Ride|"
+  },
+  {
+    "name": "Takin' You For a Ride - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Takin' You For a Ride|"
+  },
+  {
+    "name": "Yo - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Yo|"
+  },
+  {
+    "name": "Yo - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Yo|"
+  },
+  {
+    "name": "Good Friends - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Good Friends|"
+  },
+  {
+    "name": "Good Friends - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Good Friends|"
+  },
+  {
+    "name": "Drifter - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Drifter|"
+  },
+  {
+    "name": "Drifter - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Drifter|"
+  },
+  {
+    "name": "Early Morning - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Early Morning|"
+  },
+  {
+    "name": "Early Morning - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Early Morning|"
+  },
+  {
+    "name": "17 - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|17|"
+  },
+  {
+    "name": "17 - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|17|"
+  },
+  {
+    "name": "Green Tea - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Green Tea|"
+  },
+  {
+    "name": "Green Tea - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Green Tea|"
+  },
+  {
+    "name": "Looking for the Sun - 0",
+    "category": ["Chillhop DLC"],
+    "requires": "|Looking for the Sun|"
+  },
+  {
+    "name": "Looking for the Sun - 1",
+    "category": ["Chillhop DLC"],
+    "requires": "|Looking for the Sun|"
+  },
+  {
+    "name": "Part-Time Gymnast - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Part-Time Gymnast|"
+  },
+  {
+    "name": "Part-Time Gymnast - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Part-Time Gymnast|"
+  },
+  {
+    "name": "Time Wasted Worrying - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Time Wasted Worrying|"
+  },
+  {
+    "name": "Time Wasted Worrying - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Time Wasted Worrying|"
+  },
+  {
+    "name": "Punch-Drunk Love - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Punch-Drunk Love|"
+  },
+  {
+    "name": "Punch-Drunk Love - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Punch-Drunk Love|"
+  },
+  {
+    "name": "Inaka - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Inaka|"
+  },
+  {
+    "name": "Inaka - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Inaka|"
+  },
+  {
+    "name": "Playing Dead - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Playing Dead|"
+  },
+  {
+    "name": "Playing Dead - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Playing Dead|"
+  },
+  {
+    "name": "One - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|One|"
+  },
+  {
+    "name": "One - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|One|"
+  },
+  {
+    "name": "Sleeping In - 0",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Sleeping In|"
+  },
+  {
+    "name": "Sleeping In - 1",
+    "category": ["Indie Pack DLC"],
+    "requires": "|Sleeping In|"
+  },
+  {
+    "name": "Custom Song 1 - 0",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 1|"
+  },
+  {
+    "name": "Custom Song 1 - 1",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 1|"
+  },
+  {
+    "name": "Custom Song 2 - 0",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 2|"
+  },
+  {
+    "name": "Custom Song 2 - 1",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 2|"
+  },
+  {
+    "name": "Custom Song 3 - 0",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 3|"
+  },
+  {
+    "name": "Custom Song 3 - 1",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 3|"
+  },
+  {
+    "name": "Custom Song 4 - 0",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 4|"
+  },
+  {
+    "name": "Custom Song 4 - 1",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 4|"
+  },
+  {
+    "name": "Custom Song 5 - 0",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 5|"
+  },
+  {
+    "name": "Custom Song 5 - 1",
+    "category": ["5 Custom Songs"],
+    "requires": "|Custom Song 5|"
+  },
+  {
+    "name": "Custom Song 6 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 6|"
+  },
+  {
+    "name": "Custom Song 6 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 6|"
+  },
+  {
+    "name": "Custom Song 7 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 7|"
+  },
+  {
+    "name": "Custom Song 7 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 7|"
+  },
+  {
+    "name": "Custom Song 8 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 8|"
+  },
+  {
+    "name": "Custom Song 8 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 8|"
+  },
+  {
+    "name": "Custom Song 9 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 9|"
+  },
+  {
+    "name": "Custom Song 9 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 9|"
+  },
+  {
+    "name": "Custom Song 10 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 10|"
+  },
+  {
+    "name": "Custom Song 10 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 10|"
+  },
+  {
+    "name": "Custom Song 11 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 11|"
+  },
+  {
+    "name": "Custom Song 11 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 11|"
+  },
+  {
+    "name": "Custom Song 12 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 12|"
+  },
+  {
+    "name": "Custom Song 12 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 12|"
+  },
+  {
+    "name": "Custom Song 13 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 13|"
+  },
+  {
+    "name": "Custom Song 13 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 13|"
+  },
+  {
+    "name": "Custom Song 14 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 14|"
+  },
+  {
+    "name": "Custom Song 14 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 14|"
+  },
+  {
+    "name": "Custom Song 15 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 15|"
+  },
+  {
+    "name": "Custom Song 15 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 15|"
+  },
+  {
+    "name": "Custom Song 16 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 16|"
+  },
+  {
+    "name": "Custom Song 16 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 16|"
+  },
+  {
+    "name": "Custom Song 17 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 17|"
+  },
+  {
+    "name": "Custom Song 17 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 17|"
+  },
+  {
+    "name": "Custom Song 18 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 18|"
+  },
+  {
+    "name": "Custom Song 18 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 18|"
+  },
+  {
+    "name": "Custom Song 19 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 19|"
+  },
+  {
+    "name": "Custom Song 19 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 19|"
+  },
+  {
+    "name": "Custom Song 20 - 0",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 20|"
+  },
+  {
+    "name": "Custom Song 20 - 1",
+    "category": ["15 Custom Songs"],
+    "requires": "|Custom Song 20|"
+  },
+  {
+    "name": "Custom Song 21 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 21|"
+  },
+  {
+    "name": "Custom Song 21 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 21|"
+  },
+  {
+    "name": "Custom Song 22 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 22|"
+  },
+  {
+    "name": "Custom Song 22 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 22|"
+  },
+  {
+    "name": "Custom Song 23 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 23|"
+  },
+  {
+    "name": "Custom Song 23 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 23|"
+  },
+  {
+    "name": "Custom Song 24 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 24|"
+  },
+  {
+    "name": "Custom Song 24 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 24|"
+  },
+  {
+    "name": "Custom Song 25 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 25|"
+  },
+  {
+    "name": "Custom Song 25 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 25|"
+  },
+  {
+    "name": "Custom Song 26 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 26|"
+  },
+  {
+    "name": "Custom Song 26 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 26|"
+  },
+  {
+    "name": "Custom Song 27 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 27|"
+  },
+  {
+    "name": "Custom Song 27 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 27|"
+  },
+  {
+    "name": "Custom Song 28 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 28|"
+  },
+  {
+    "name": "Custom Song 28 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 28|"
+  },
+  {
+    "name": "Custom Song 29 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 29|"
+  },
+  {
+    "name": "Custom Song 29 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 29|"
+  },
+  {
+    "name": "Custom Song 30 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 30|"
+  },
+  {
+    "name": "Custom Song 30 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 30|"
+  },
+  {
+    "name": "Custom Song 31 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 31|"
+  },
+  {
+    "name": "Custom Song 31 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 31|"
+  },
+  {
+    "name": "Custom Song 32 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 32|"
+  },
+  {
+    "name": "Custom Song 32 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 32|"
+  },
+  {
+    "name": "Custom Song 33 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 33|"
+  },
+  {
+    "name": "Custom Song 33 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 33|"
+  },
+  {
+    "name": "Custom Song 34 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 34|"
+  },
+  {
+    "name": "Custom Song 34 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 34|"
+  },
+  {
+    "name": "Custom Song 35 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 35|"
+  },
+  {
+    "name": "Custom Song 35 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 35|"
+  },
+  {
+    "name": "Custom Song 36 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 36|"
+  },
+  {
+    "name": "Custom Song 36 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 36|"
+  },
+  {
+    "name": "Custom Song 37 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 37|"
+  },
+  {
+    "name": "Custom Song 37 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 37|"
+  },
+  {
+    "name": "Custom Song 38 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 38|"
+  },
+  {
+    "name": "Custom Song 38 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 38|"
+  },
+  {
+    "name": "Custom Song 39 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 39|"
+  },
+  {
+    "name": "Custom Song 39 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 39|"
+  },
+  {
+    "name": "Custom Song 40 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 40|"
+  },
+  {
+    "name": "Custom Song 40 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 40|"
+  },
+  {
+    "name": "Custom Song 41 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 41|"
+  },
+  {
+    "name": "Custom Song 41 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 41|"
+  },
+  {
+    "name": "Custom Song 42 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 42|"
+  },
+  {
+    "name": "Custom Song 42 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 42|"
+  },
+  {
+    "name": "Custom Song 43 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 43|"
+  },
+  {
+    "name": "Custom Song 43 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 43|"
+  },
+  {
+    "name": "Custom Song 44 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 44|"
+  },
+  {
+    "name": "Custom Song 44 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 44|"
+  },
+  {
+    "name": "Custom Song 45 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 45|"
+  },
+  {
+    "name": "Custom Song 45 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 45|"
+  },
+  {
+    "name": "Custom Song 46 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 46|"
+  },
+  {
+    "name": "Custom Song 46 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 46|"
+  },
+  {
+    "name": "Custom Song 47 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 47|"
+  },
+  {
+    "name": "Custom Song 47 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 47|"
+  },
+  {
+    "name": "Custom Song 48 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 48|"
+  },
+  {
+    "name": "Custom Song 48 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 48|"
+  },
+  {
+    "name": "Custom Song 49 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 49|"
+  },
+  {
+    "name": "Custom Song 49 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 49|"
+  },
+  {
+    "name": "Custom Song 50 - 0",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 50|"
+  },
+  {
+    "name": "Custom Song 50 - 1",
+    "category": ["30 Custom Songs"],
+    "requires": "|Custom Song 50|"
+  },
+  {
+    "name": "Custom Song 51 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 51|"
+  },
+  {
+    "name": "Custom Song 51 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 51|"
+  },
+  {
+    "name": "Custom Song 52 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 52|"
+  },
+  {
+    "name": "Custom Song 52 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 52|"
+  },
+  {
+    "name": "Custom Song 53 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 53|"
+  },
+  {
+    "name": "Custom Song 53 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 53|"
+  },
+  {
+    "name": "Custom Song 54 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 54|"
+  },
+  {
+    "name": "Custom Song 54 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 54|"
+  },
+  {
+    "name": "Custom Song 55 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 55|"
+  },
+  {
+    "name": "Custom Song 55 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 55|"
+  },
+  {
+    "name": "Custom Song 56 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 56|"
+  },
+  {
+    "name": "Custom Song 56 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 56|"
+  },
+  {
+    "name": "Custom Song 57 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 57|"
+  },
+  {
+    "name": "Custom Song 57 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 57|"
+  },
+  {
+    "name": "Custom Song 58 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 58|"
+  },
+  {
+    "name": "Custom Song 58 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 58|"
+  },
+  {
+    "name": "Custom Song 59 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 59|"
+  },
+  {
+    "name": "Custom Song 59 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 59|"
+  },
+  {
+    "name": "Custom Song 60 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 60|"
+  },
+  {
+    "name": "Custom Song 60 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 60|"
+  },
+  {
+    "name": "Custom Song 61 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 61|"
+  },
+  {
+    "name": "Custom Song 61 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 61|"
+  },
+  {
+    "name": "Custom Song 62 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 62|"
+  },
+  {
+    "name": "Custom Song 62 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 62|"
+  },
+  {
+    "name": "Custom Song 63 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 63|"
+  },
+  {
+    "name": "Custom Song 63 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 63|"
+  },
+  {
+    "name": "Custom Song 64 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 64|"
+  },
+  {
+    "name": "Custom Song 64 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 64|"
+  },
+  {
+    "name": "Custom Song 65 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 65|"
+  },
+  {
+    "name": "Custom Song 65 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 65|"
+  },
+  {
+    "name": "Custom Song 66 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 66|"
+  },
+  {
+    "name": "Custom Song 66 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 66|"
+  },
+  {
+    "name": "Custom Song 67 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 67|"
+  },
+  {
+    "name": "Custom Song 67 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 67|"
+  },
+  {
+    "name": "Custom Song 68 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 68|"
+  },
+  {
+    "name": "Custom Song 68 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 68|"
+  },
+  {
+    "name": "Custom Song 69 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 69|"
+  },
+  {
+    "name": "Custom Song 69 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 69|"
+  },
+  {
+    "name": "Custom Song 70 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 70|"
+  },
+  {
+    "name": "Custom Song 70 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 70|"
+  },
+  {
+    "name": "Custom Song 71 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 71|"
+  },
+  {
+    "name": "Custom Song 71 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 71|"
+  },
+  {
+    "name": "Custom Song 72 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 72|"
+  },
+  {
+    "name": "Custom Song 72 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 72|"
+  },
+  {
+    "name": "Custom Song 73 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 73|"
+  },
+  {
+    "name": "Custom Song 73 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 73|"
+  },
+  {
+    "name": "Custom Song 74 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 74|"
+  },
+  {
+    "name": "Custom Song 74 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 74|"
+  },
+  {
+    "name": "Custom Song 75 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 75|"
+  },
+  {
+    "name": "Custom Song 75 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 75|"
+  },
+  {
+    "name": "Custom Song 76 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 76|"
+  },
+  {
+    "name": "Custom Song 76 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 76|"
+  },
+  {
+    "name": "Custom Song 77 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 77|"
+  },
+  {
+    "name": "Custom Song 77 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 77|"
+  },
+  {
+    "name": "Custom Song 78 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 78|"
+  },
+  {
+    "name": "Custom Song 78 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 78|"
+  },
+  {
+    "name": "Custom Song 79 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 79|"
+  },
+  {
+    "name": "Custom Song 79 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 79|"
+  },
+  {
+    "name": "Custom Song 80 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 80|"
+  },
+  {
+    "name": "Custom Song 80 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 80|"
+  },
+  {
+    "name": "Custom Song 81 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 81|"
+  },
+  {
+    "name": "Custom Song 81 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 81|"
+  },
+  {
+    "name": "Custom Song 82 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 82|"
+  },
+  {
+    "name": "Custom Song 82 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 82|"
+  },
+  {
+    "name": "Custom Song 83 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 83|"
+  },
+  {
+    "name": "Custom Song 83 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 83|"
+  },
+  {
+    "name": "Custom Song 84 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 84|"
+  },
+  {
+    "name": "Custom Song 84 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 84|"
+  },
+  {
+    "name": "Custom Song 85 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 85|"
+  },
+  {
+    "name": "Custom Song 85 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 85|"
+  },
+  {
+    "name": "Custom Song 86 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 86|"
+  },
+  {
+    "name": "Custom Song 86 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 86|"
+  },
+  {
+    "name": "Custom Song 87 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 87|"
+  },
+  {
+    "name": "Custom Song 87 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 87|"
+  },
+  {
+    "name": "Custom Song 88 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 88|"
+  },
+  {
+    "name": "Custom Song 88 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 88|"
+  },
+  {
+    "name": "Custom Song 89 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 89|"
+  },
+  {
+    "name": "Custom Song 89 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 89|"
+  },
+  {
+    "name": "Custom Song 90 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 90|"
+  },
+  {
+    "name": "Custom Song 90 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 90|"
+  },
+  {
+    "name": "Custom Song 91 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 91|"
+  },
+  {
+    "name": "Custom Song 91 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 91|"
+  },
+  {
+    "name": "Custom Song 92 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 92|"
+  },
+  {
+    "name": "Custom Song 92 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 92|"
+  },
+  {
+    "name": "Custom Song 93 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 93|"
+  },
+  {
+    "name": "Custom Song 93 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 93|"
+  },
+  {
+    "name": "Custom Song 94 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 94|"
+  },
+  {
+    "name": "Custom Song 94 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 94|"
+  },
+  {
+    "name": "Custom Song 95 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 95|"
+  },
+  {
+    "name": "Custom Song 95 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 95|"
+  },
+  {
+    "name": "Custom Song 96 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 96|"
+  },
+  {
+    "name": "Custom Song 96 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 96|"
+  },
+  {
+    "name": "Custom Song 97 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 97|"
+  },
+  {
+    "name": "Custom Song 97 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 97|"
+  },
+  {
+    "name": "Custom Song 98 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 98|"
+  },
+  {
+    "name": "Custom Song 98 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 98|"
+  },
+  {
+    "name": "Custom Song 99 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 99|"
+  },
+  {
+    "name": "Custom Song 99 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 99|"
+  },
+  {
+    "name": "Custom Song 100 - 0",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 100|"
+  },
+  {
+    "name": "Custom Song 100 - 1",
+    "category": ["50 Custom Songs"],
+    "requires": "|Custom Song 100|"
+  }
+]
